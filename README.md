@@ -2,14 +2,14 @@
 Started coding with leaflet
 
 # what is this
-dated 25 Apr 2020
+dated 25 Apr 2020, demo (./test.htm)
 
 ## objectives:
 wanted a standalone html file that can display tooltip just like the leaflet plugin: leaflet-tooltip-layout (auto space out tooltip)
 BUT didnt want to run nodejs
 
 ## reference:
-leaflet plugin: leaflet-tooltip-layout (see https://github.com/ZijingPeng/leaflet-tooltip-layout )
+leaflet plugin: leaflet-tooltip-layout, see (https://github.com/ZijingPeng/leaflet-tooltip-layout)
 
 ## what's next?
 * data is in file "data-geojson.js"
